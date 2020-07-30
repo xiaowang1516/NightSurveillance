@@ -2,11 +2,13 @@
 
 - This repository contains the NighSurveillance dataset for the following paper：[When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark (IJCAI 2020)](https://wangzwhu.github.io/home/IJCAI20_NightSurveillance.pdf). Pedestrian detection at nighttime is a challenging problem largely underrepresented in the literature, while it is crucial in surveillance applications. Current benchmarks are insufficient to bridge such a gap between autonomous driving and surveillance scenarios. [NightSurveillance](https://pan.baidu.com/s/1bDUVKm0h9u8Kpx6IkdnW6w) is designed to comprehensively cover the following challenging and benefit practical security applications.
 
+- You can download [NightSurveillance](https://pan.baidu.com/s/1bDUVKm0h9u8Kpx6IkdnW6w) now.
+
 ### **Benchmark**
 
 | Methods | Average Miss Rate (%) |
 
-| --- | --- |
+| :---: | :---: |
 
 | ACF | 89.34 | 
 
@@ -43,5 +45,3 @@ bib:
      year      = {2020},
     }
 
-
-- 
