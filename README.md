@@ -4,6 +4,8 @@
 
 - You can download [NightSurveillance](https://pan.baidu.com/s/1bDUVKm0h9u8Kpx6IkdnW6w) now.
 
+- If you have any questions about the NightSurveillance dataset, please contact hebeiwangxiao@whu.edu.cn.
+
 ### **Benchmark**
 
 |  Methods   | Average Miss Rate (%)  |
@@ -23,13 +25,7 @@ bib:
 
     @inproceedings{NightSurveillance,
      title={When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark},
-     author={Xiao Wang and
-               Jun Chen and
-               Zheng Wang and
-               Wu Liu and
-               Shin'ichi Satoh and
-               Chao Liang and
-               Chia{-}Wen Lin},
+     author={Xiao Wang and Jun Chen and Zheng Wang and  Wu Liu and Shin'ichi Satoh and  Chao Liang and Chia{-}Wen Lin},
      year={2020},
      booktitle={Proceedings of the Twenty-Ninth International Joint Conference on
                Artificial Intelligence, {IJCAI}},
