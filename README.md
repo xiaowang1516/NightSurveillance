@@ -1,5 +1,42 @@
-## <center>When Pedestrian Detection Meets Nighttime Surveillance</center>
+##NighSurveillance
 
-- Pedestrian detection at nighttime is a crucial and frontier problem in surveillance, but has been neglected by the computer vision and artificial intelligence communities. Most of the existing methods detect pedestrians under favourable lighting conditions (daytime) and obtain satisfactory results. In contrast, most of them fail under unstable lighting conditions ( nighttime). The night is a critical time for criminal suspects to act in the field of security. The current nighttime pedestrian detection dataset is captured by a car camera, specially designed for automatic driving scenario. The dataset of surveillance scenario at nighttime is still vacant. There is a vast difference between automatic driving and surveillance, including viewpoint and illumination. In this paper, we build a novel pedestrian detection dataset from the surveillance scenario at nighttime: NightSurveillance. As a baseline for pedestrian detection at nighttime, we compare the performance of state-of-the-art pedestrian detectors. We found that they did not solve all the challenging problems of NightSurveillance. We believe that NightSurveillance can further advance the research of pedestrian detection, especially in the field of surveillance security at nighttime.
+- This repository contains the NighSurveillance dataset for the following paper：[When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark (IJCAI 2020)](https://wangzwhu.github.io/home/IJCAI20_NightSurveillance.pdf). Pedestrian detection at nighttime is a challenging problem largely underrepresented in the literature, while it is crucial in surveillance applications. Current benchmarks are insufficient to bridge such a gap between autonomous driving and surveillance scenarios. NightSurveillance is designed to comprehensively cover the following challenging and benefit practical security applications.
+
+-### **Benchmark**
+
+| Methods | Average Miss Rate (%) |
+
+| — | — |
+
+| ACF | 89.34 | 
+
+| RPN+BF | 86.34 | 
+
+| Vanilla Faster |26.55 |
+
+| Adapted Faster R-CNN |24.84 |
+
+| SDS R-CNN | 23.62 |
+
+| S3D | 21.73|
+
+
+
+### **Citation**
+
+@inproceedings{NightSurveillance,
+  title     = {When Pedestrian Detection Meets Nighttime Surveillance: {A} New Benchmark},
+  author    = {Xiao Wang and
+               Jun Chen and
+               Zheng Wang and
+               Wu Liu and
+               Shin'ichi Satoh and
+               Chao Liang and
+               Chia{-}Wen Lin},  
+  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
+               Artificial Intelligence, {IJCAI} 2020},
+  pages     = {509--515},
+  year      = {2020},
+}
 
 - 
