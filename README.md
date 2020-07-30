@@ -1,6 +1,6 @@
 ## NighSurveillance
 
-- This repository contains the NighSurveillance dataset for the following paper：[When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark (IJCAI 2020)](https://wangzwhu.github.io/home/IJCAI20_NightSurveillance.pdf). Pedestrian detection at nighttime is a challenging problem largely underrepresented in the literature, while it is crucial in surveillance applications. Current benchmarks are insufficient to bridge such a gap between autonomous driving and surveillance scenarios. NightSurveillance is designed to comprehensively cover the following challenging and benefit practical security applications.
+- This repository contains the NighSurveillance dataset for the following paper：[When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark (IJCAI 2020)](https://wangzwhu.github.io/home/IJCAI20_NightSurveillance.pdf). Pedestrian detection at nighttime is a challenging problem largely underrepresented in the literature, while it is crucial in surveillance applications. Current benchmarks are insufficient to bridge such a gap between autonomous driving and surveillance scenarios. [NightSurveillance](https://pan.baidu.com/s/1bDUVKm0h9u8Kpx6IkdnW6w) is designed to comprehensively cover the following challenging and benefit practical security applications.
 
 ### **Benchmark**
 
@@ -23,20 +23,26 @@
 
 
 ### **Citation**
+Please kindly cite our paper if NightSurveillance if helpfull for your own work:<br><br>
+Xiao Wang, Jun Chen, Zheng Wang, Wu Liu, Shin'ichi Satoh, Chao Liang and Chia{-}Wen Lin. "When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark", In IJCAI, PP: 509-515, 2020.
 
-@inproceedings{NightSurveillance,
-  title     = {When Pedestrian Detection Meets Nighttime Surveillance: {A} New Benchmark},
-  author    = {Xiao Wang and
+bib:
+
+    @inproceedings{NightSurveillance,
+     title={When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark},
+     author={Xiao Wang and
                Jun Chen and
                Zheng Wang and
                Wu Liu and
                Shin'ichi Satoh and
                Chao Liang and
-               Chia{-}Wen Lin},  
-  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
-               Artificial Intelligence, {IJCAI} 2020},
-  pages     = {509--515},
-  year      = {2020},
-}
+               Chia{-}Wen Lin},
+     year={2020},
+     booktitle={Proceedings of the Twenty-Ninth International Joint Conference on
+               Artificial Intelligence, {IJCAI}},
+     pages     = {509--515},
+     year      = {2020},
+    }
+
 
 - 
