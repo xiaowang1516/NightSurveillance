@@ -2,7 +2,7 @@
 
 - This repository contains the NighSurveillance dataset for the following paper：[When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark (IJCAI 2020)](https://www.ijcai.org/Proceedings/2020/71). Pedestrian detection at nighttime is a challenging problem largely underrepresented in the literature, while it is crucial in surveillance applications. Current benchmarks are insufficient to bridge such a gap between autonomous driving and surveillance scenarios. NightSurveillance is designed to comprehensively cover the following challenging and benefit practical security applications.
 
-- You can download [NightSurveillance](https://pan.baidu.com/s/1uIhMBKmQgPdbVjR2EK7o5g) now. Extraction code：akzx
+- You can download [NightSurveillance](https://pan.baidu.com/s/1uIhMBKmQgPdbVjR2EK7o5g) now. (Extraction code：akzx) The NightSurveillance Dataset is for academic use only. By downloading the dataset, you guarantee that you will use this dataset for academic work only.
 
 - Other dataset vs NightSurveillance dataset.
 ![](https://github.com/xiaowang1516/NightSurveillance/blob/master/1.png)
