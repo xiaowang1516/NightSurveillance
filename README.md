@@ -25,9 +25,8 @@ bib:
 
     @inproceedings{NightSurveillance,
     author={Wang, Xiao and Chen, Jun and Wang, Zheng and Liu, Wu and Satoh, Shin'ichi and   Liang, Chao and  Lin, Chia{-}Wen},
-    title={When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark},
-    booktitle={Proceedings of the Twenty-Ninth International Joint Conference on
-               Artificial Intelligence, {IJCAI}},
+    title={When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark}, 
+    booktitle={Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence},
     pages     = {509--515},
     year      = {2020},
     }
