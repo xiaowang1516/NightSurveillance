@@ -7,7 +7,7 @@
 ### **Benchmark**
 
 |  Methods   | Average Miss Rate (%)  |
-|  ----  | ----  |
+|  :----:  | :----:  |
 | ACF  | 89.34 |
 | RPN+BF  | 86.34 |
 | Vanilla Faster  | 26.55 |
