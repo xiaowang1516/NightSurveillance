@@ -23,8 +23,7 @@
 
 
 ### **Citation**
-Please kindly cite our paper if NightSurveillance if helpfull for your own work:<br><br>
-Xiao Wang, Jun Chen, Zheng Wang, Wu Liu, Shin'ichi Satoh, Chao Liang and Chia{-}Wen Lin. "When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark", In IJCAI, PP: 509-515, 2020.
+Please kindly cite our paper if NightSurveillance if helpfull for your own work:
 
 bib:
 
