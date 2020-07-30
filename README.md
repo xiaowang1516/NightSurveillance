@@ -12,6 +12,7 @@
 ### **Benchmark**
 
 - Performance of state-of-the-art methods.
+
 |  Methods   | Average Miss Rate (%)  |
 |  :----:  | :----:  |
 | ACF  | 89.34 |
