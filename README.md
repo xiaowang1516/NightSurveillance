@@ -24,12 +24,11 @@ Please kindly cite our paper if NightSurveillance is helpful to your own work.
 bib:
 
     @inproceedings{NightSurveillance,
-     title={When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark},
-     author={Xiao Wang and Jun Chen and Zheng Wang and  Wu Liu and Shin'ichi Satoh and  Chao Liang and Chia{-}Wen Lin},
-     year={2020},
-     booktitle={Proceedings of the Twenty-Ninth International Joint Conference on
+    author={Wang, Xiao and Chen, Jun and Wang, Zheng and Liu, Wu and Satoh, Shin'ichi and   Liang, Chao and  Lin, Chia{-}Wen},
+    title={When Pedestrian Detection Meets Nighttime Surveillance: A New Benchmark},
+    booktitle={Proceedings of the Twenty-Ninth International Joint Conference on
                Artificial Intelligence, {IJCAI}},
-     pages     = {509--515},
-     year      = {2020},
+    pages     = {509--515},
+    year      = {2020},
     }
 
