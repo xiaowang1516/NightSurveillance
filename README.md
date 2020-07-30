@@ -8,7 +8,7 @@
 
 | Methods | Average Miss Rate (%) |
 
-| :---: | :---: |
+| :----: | :----: |
 
 | ACF | 89.34 | 
 
