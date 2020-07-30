@@ -11,23 +11,14 @@
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
 
-
-| Methods | Average Miss Rate (%) |
-
-| :----: | :----: |
-
-| ACF | 89.34 | 
-
-| RPN+BF | 86.34 | 
-
-| Vanilla Faster |26.55 |
-
-| Adapted Faster R-CNN |24.84 |
-
-| SDS R-CNN | 23.62 |
-
-| S3D | 21.73|
-
+|  Methods   | Average Miss Rate (%)  |
+|  ----  | ----  |
+| ACF  | 89.34 |
+| RPN+BF  | 86.34 |
+| Vanilla Faster  | 26.55 |
+| Adapted Faster R-CNN  | 24.84 |
+| SDS R-CNN  | 23.62 |
+| S3D  | 21.73 |
 
 
 ### **Citation**
